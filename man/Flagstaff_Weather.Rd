@@ -11,7 +11,7 @@ A data frame with 1719 observations of 5 Variables
   \item{PRCP}{Amount of Precipication in inches}
   \item{SNOW}{Amount of Snowfall in inches}
   \item{TMAX}{Maximum tempature in Fahrenheit}
-  \item{TMAX}{Minimum tempature in Fahrenheit}
+  \item{TMIN}{Minimum tempature in Fahrenheit}
 }
 }
 \source{
