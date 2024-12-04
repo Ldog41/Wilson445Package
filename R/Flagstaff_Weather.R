@@ -6,7 +6,7 @@
 #'   \item{PRCP}{Amount of Precipication in inches}
 #'   \item{SNOW}{Amount of Snowfall in inches}
 #'   \item{TMAX}{Maximum tempature in Fahrenheit}
-#'   \item{TMAX}{Minimum tempature in Fahrenheit}
+#'   \item{TMIN}{Minimum tempature in Fahrenheit}
 #' }
 #' @source \url{https://www.ncdc.noaa.gov/}
 "Flagstaff_Weather"
