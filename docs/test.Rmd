@@ -1,0 +1,17 @@
+---
+title: "test"
+author: "Landon Wilson"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r}
+library(Wilson445Package)
+library(tidyverse)
+```
+
+```{r}
+ggplot(data = Flagstaff_Weather, aes(x =DATE, y = PRCP))+
+  geom_point()
+```
+
